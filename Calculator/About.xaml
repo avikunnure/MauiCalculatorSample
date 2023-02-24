@@ -8,9 +8,12 @@
                             Clicked="ExitApp" />
         </MenuBarItem>
         <MenuBarItem Text="View">
-            <MenuFlyoutItem Text="About" IsEnabled="False" Clicked="OnBackToAbout"/>
-
-
+            <MenuFlyoutItem  Text="Calculator" Clicked="OnBackToCalculator" />
+            <MenuFlyoutSubItem  Text="Theme">
+                <MenuFlyoutItem Text="Light"  Clicked="OnSetThemes" CommandParameter="1"/>
+                <MenuFlyoutItem Text="Pink"  Clicked="OnSetThemes" CommandParameter="2"/>
+                <MenuFlyoutItem Text="Red"  Clicked="OnSetThemes" CommandParameter="3"/>
+            </MenuFlyoutSubItem>
         </MenuBarItem>
     </ContentPage.MenuBarItems>
     <ContentPage.Content>

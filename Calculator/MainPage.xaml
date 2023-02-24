@@ -3,14 +3,19 @@
             xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
     <ContentPage.MenuBarItems>
-        <MenuBarItem Text="File">
+        <MenuBarItem   Text="File">
             <MenuFlyoutItem Text="Exit"
                             Clicked="ExitApp" />
         </MenuBarItem>
         <MenuBarItem Text="View">
-            <MenuFlyoutItem Text="About" Clicked="OnBackToAbout">
-              
-            </MenuFlyoutItem>
+            <MenuFlyoutItem  Text="About" Clicked="OnBackToAbout" />
+            <MenuFlyoutSubItem  Text="Theme">
+                <MenuFlyoutItem Text="Light"  Clicked="OnSetThemes" CommandParameter="1"/>
+                <MenuFlyoutItem Text="Pink"  Clicked="OnSetThemes" CommandParameter="2"/>
+                <MenuFlyoutItem Text="Red"  Clicked="OnSetThemes" CommandParameter="3"/>
+            </MenuFlyoutSubItem>
+
+
         </MenuBarItem>
     </ContentPage.MenuBarItems>
     <Grid RowSpacing="2" ColumnSpacing="2"
@@ -32,7 +37,7 @@
                VerticalTextAlignment="End"
                LineBreakMode="NoWrap" Grid.ColumnSpan="5" />
 
-        <BoxView BackgroundColor="{StaticResource LightGray}" HeightRequest="1"
+        <BoxView BackgroundColor="{DynamicResource Light}" HeightRequest="1"
                  Grid.Row="0" VerticalOptions="End"
                  Grid.ColumnSpan="5"
                  />
