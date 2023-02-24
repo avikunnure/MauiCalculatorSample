@@ -1,1 +1,1 @@
-C:\Users\Admin\Downloads\maui-samples-main\maui-samples-main\6.0\Apps\Calculator\src\Calculator\Calculator.csproj;x64
+D:\Repository\Calculator\src\Calculator\Calculator.csproj;x64

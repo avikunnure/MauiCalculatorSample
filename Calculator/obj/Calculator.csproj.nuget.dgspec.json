@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Downloads\\maui-samples-main\\maui-samples-main\\6.0\\Apps\\Calculator\\src\\Calculator\\Calculator.csproj": {}
+    "D:\\Repository\\Calculator\\src\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Downloads\\maui-samples-main\\maui-samples-main\\6.0\\Apps\\Calculator\\src\\Calculator\\Calculator.csproj": {
+    "D:\\Repository\\Calculator\\src\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\maui-samples-main\\maui-samples-main\\6.0\\Apps\\Calculator\\src\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "D:\\Repository\\Calculator\\src\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\Admin\\Downloads\\maui-samples-main\\maui-samples-main\\6.0\\Apps\\Calculator\\src\\Calculator\\Calculator.csproj",
+        "projectPath": "D:\\Repository\\Calculator\\src\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Downloads\\maui-samples-main\\maui-samples-main\\6.0\\Apps\\Calculator\\src\\Calculator\\obj\\",
+        "outputPath": "D:\\Repository\\Calculator\\src\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

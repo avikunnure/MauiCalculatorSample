@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4OySCMDicaZfAHefCBDHnk0JW5lKDS3ZB+8GEu90dy8+f+4vsOkOG6HfEj6hIcTd313126KSFT4EcbPkW69WyA==",
+  "dgSpecHash": "cSQW//V+gKRS/DBNILCdaAWGHdpP2+N1fYXsf6SyWNK+UKgZxeDOK7w1G/v2QNZ4lFmXywn1o7QT8DkpYZrqJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Downloads\\maui-samples-main\\maui-samples-main\\6.0\\Apps\\Calculator\\src\\Calculator\\Calculator.csproj",
+  "projectFilePath": "D:\\Repository\\Calculator\\src\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\googlegson\\2.9.0.1\\googlegson.2.9.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
