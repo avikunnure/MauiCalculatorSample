@@ -7,3 +7,11 @@
 /Calculator/obj/Debug
 /Calculator/bin
 /Calculator/obj
+/Calculator/bin/Debug/net6.0-android
+/Calculator/bin/Debug/net6.0-ios
+/Calculator/bin/Debug/net6.0-maccatalyst
+/Calculator/bin/Debug/net6.0-windows10.0.19041.0
+/Calculator/obj/Debug/net6.0-android
+/Calculator/obj/Debug/net6.0-ios
+/Calculator/obj/Debug/net6.0-maccatalyst
+/Calculator/obj/Debug/net6.0-windows10.0.19041.0
